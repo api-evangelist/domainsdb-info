@@ -1,0 +1,32 @@
+aid: domainsdb-info
+name: Domainsdb.info
+description: "Registered Domain Names Search"
+url: https://domainsdb.info/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Business"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Business
+  - Public APIs
+apis:
+  - name: Domainsdb.info
+    description: "Registered Domain Names Search"
+    humanURL: https://domainsdb.info/
+    baseURL: https://domainsdb.info/
+    tags:
+      - Business
+    properties:
+      - type: Documentation
+        url: https://domainsdb.info/
+common:
+  - type: Website
+    url: https://domainsdb.info/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
