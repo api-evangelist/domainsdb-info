@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://domainsdb.info/
 common:
+  - type: DomainSecurity
+    url: security/domainsdb-info-domain-security.yml
   - type: Website
     url: https://domainsdb.info/
   - type: PublicAPIsListing
