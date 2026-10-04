@@ -39,7 +39,6 @@ apis:
   - name: Domainsdb.info
     description: "Registered Domain Names Search"
     humanURL: https://domainsdb.info/
-    baseURL: https://domainsdb.info/
     tags:
       - Business
     properties:
